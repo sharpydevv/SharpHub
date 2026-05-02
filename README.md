@@ -1,4 +1,6 @@
-# SharpHub (KEY: https://jnkie.com/get-key/sharphub SCRIPT: loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/73ea35a599225ba3fcf57dd1c36f9361ef77ac9956f77a6303dc43db7d44fdcc/download"))())
+# SharpHub 
+Script: loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/73ea35a599225ba3fcf57dd1c36f9361ef77ac9956f77a6303dc43db7d44fdcc/download
+Get Key: https://jnkie.com/get-key/sharphub
 We are a new hub, named SharpHub, we use the following resources with reason;
 - Lucide (https://lucide.dev) - Icons inside the hub & here.
 - WindUI (https://footagesus.github.io/WindUI-Docs/docs) - Our UI Library
