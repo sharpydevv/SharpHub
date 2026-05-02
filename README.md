@@ -1,4 +1,4 @@
-# SharpHub
+# SharpHub (KEY: https://jnkie.com/get-key/sharphub SCRIPT: loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/73ea35a599225ba3fcf57dd1c36f9361ef77ac9956f77a6303dc43db7d44fdcc/download"))())
 We are a new hub, named SharpHub, we use the following resources with reason;
 - Lucide (https://lucide.dev) - Icons inside the hub & here.
 - WindUI (https://footagesus.github.io/WindUI-Docs/docs) - Our UI Library
@@ -11,7 +11,7 @@ We are a new hub, named SharpHub, we use the following resources with reason;
 *This list also may be updated.*
 
 ### How to get SharpHub
-- Via buying on Discord, we have packages such as
+- Via buying on Discord, message me @ e_exists, we have packages such as
 1. Permanent Key
 2. 1 Week Key
 3. 1 Month Key
@@ -29,7 +29,7 @@ Beta testers get free keys!
 
 - via Junkie Key System
 
-This is our link for Junkie Key System: "NOT OUT YET", if found out you bypassed it in any way your HWID wikll be BLACKLISTED. You will need another device, which we will find.
+This is our link for Junkie Key System: "https://jnkie.com/get-key/sharphub", if found out you bypassed it in any way your HWID wikll be BLACKLISTED. You will need another device, which we will find.
 
 **Thanks for reading!**
 
